@@ -1,0 +1,8 @@
+{
+  "name": "Remix Whisper Ledger - Privacy-First Anonymous Campus Grievance Platform",
+  "description": "Anonymous for Students, Accountable for Institutions. Privacy-first campus grievance ledger with cryptographic anonymity, AI recurring issue clustering, Me-Too verification, and automated institutional escalation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
